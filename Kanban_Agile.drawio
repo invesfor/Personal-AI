@@ -1,0 +1,67 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram id="74L_GmS45VMtbvwV8_wn" name="Page-1">
+    <mxGraphModel dx="1480" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="swimlane;startSize=20;fillColor=#2C2F33;fontColor=#FFFFFF;strokeColor=#7289DA" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="900" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="User Stories (US)" style="swimlane;" parent="2" vertex="1">
+          <mxGeometry width="180" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="aKEyl_lNYIwc9TJSH8SX-20" value="&#xa;Quản lý công việc cá nhân&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="3">
+          <mxGeometry x="5" y="70" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aKEyl_lNYIwc9TJSH8SX-34" value="Đặt lịch hẹn" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="3">
+          <mxGeometry x="5" y="150" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aKEyl_lNYIwc9TJSH8SX-35" value="Gửi thông báo nhắc nhở" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="3">
+          <mxGeometry x="5" y="230" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aKEyl_lNYIwc9TJSH8SX-36" value="Tìm kiếm thông tin trên Internet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="3">
+          <mxGeometry x="5" y="320" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aKEyl_lNYIwc9TJSH8SX-37" value="Học hỏi thói quen người dùng" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="3">
+          <mxGeometry x="5" y="400" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="To Do" style="swimlane;fillColor=#99AAB5;fontColor=#000000;strokeColor=#7289DA" parent="2" vertex="1">
+          <mxGeometry x="180" width="180" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Thiết kế giao diện quản lý công việc" style="rounded=1;whiteSpace=wrap;fillColor=#BDC3C7;fontColor=#000000" parent="4" vertex="1">
+          <mxGeometry y="70" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Thiết kế API đặt lịch hẹn" style="rounded=1;whiteSpace=wrap;fillColor=#BDC3C7;fontColor=#000000;shadow=1;" parent="4" vertex="1">
+          <mxGeometry y="140" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Đợi phản hồi từ người dùng thử nghiệm" style="rounded=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="4" vertex="1">
+          <mxGeometry x="5" y="210" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="In Progress" style="swimlane;fillColor=#F1C40F;fontColor=#000000;strokeColor=#7289DA" parent="2" vertex="1">
+          <mxGeometry x="360" width="180" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Hoàn thành module tìm kiếm thông tin" style="rounded=1;whiteSpace=wrap;fillColor=#ABEBC6;fontColor=#000000" parent="5" vertex="1">
+          <mxGeometry x="5" y="60" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Pending" style="swimlane;fillColor=#E67E22;fontColor=#000000;strokeColor=#7289DA" parent="2" vertex="1">
+          <mxGeometry x="540" width="180" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Chờ xác nhận UX/UI" style="rounded=1;whiteSpace=wrap;fillColor=#F39C12;fontColor=#000000" parent="6" vertex="1">
+          <mxGeometry y="70" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Lập trình giao diện tạo công việc" style="rounded=1;whiteSpace=wrap;fillColor=#F9E79F;fontColor=#000000" parent="6" vertex="1">
+          <mxGeometry y="130" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Kết nối API với giao diện người dùng" style="rounded=1;whiteSpace=wrap;fillColor=#F9E79F;fontColor=#000000" parent="6" vertex="1">
+          <mxGeometry y="190" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Done" style="swimlane;fillColor=#2ECC71;fontColor=#000000;strokeColor=#7289DA;startSize=23;" parent="2" vertex="1">
+          <mxGeometry x="720" width="180" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Đã triển khai tính năng xóa công việc" style="rounded=1;whiteSpace=wrap;fillColor=#ABEBC6;fontColor=#000000" parent="7" vertex="1">
+          <mxGeometry y="70" width="170" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
